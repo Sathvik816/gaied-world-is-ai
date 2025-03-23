@@ -1,0 +1,39 @@
+From: Michael.abc@mail.com
+To: customer.care@kishkindabank.com
+Subject: Clarification on Ongoing Fee Charges – Account #123456
+Date: Fri, 21 Mar 2025 10:30:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Description: Clarification on Ongoing Fee Charges – Account #123456
+
+
+Dear kishkindabank Customer Support,
+
+I noticed an ongoing fee of $50 deducted from my account this month. Could you please provide a detailed breakdown of this fee?
+
+Additionally, I would like to confirm:
+
+If there are any changes to my ongoing fee structure.
+
+If I qualify for any fee waivers or discounts.
+
+Please let me know if you need any further information.
+
+With Regards,
+Michael
+Telephone #:
+
+
+--boundary123
+Content-Type: application/pdf; name="Payment_Receipt.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="Payment_Receipt.pdf"
+
+JVBERi0xLjQKJeLjz9MKMyAwIG9iago8PAovVGl0bGUgKFNhbXBsZSBSZWNlaXB0KQovQXV0aG9yIC
+hCYW5rIEV4YW1wbGUpCi9TdWJqZWN0IChQYXltZW50IFJlY2VpcHQpCj4+CmVuZG9iagoK
+--boundary123--
