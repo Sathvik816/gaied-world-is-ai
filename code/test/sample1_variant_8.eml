@@ -1,0 +1,35 @@
+From: First National Bank
+To: customer.care@kishkindabank.com
+Subject: Robert Brown LP USD 199 / KIB79634
+Date: Fri, 21 Mar 2025 10:30:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Deal CUSIP: 10101ABB0
+Deal ISIN: US50505EEF49
+Facility CUSIP: 20202BBC1
+Lender MEI: US4J672891
+
+Effective 15-Mar-2025, Robert Brown LP has elected to repay a total of 7266
+
+Current Principal Balance: USD 59603
+New Principal Balance: USD 5227
+
+Loan was effective 15-Nov-2024, scheduled to repay on 15-Mar-2025
+
+Best regards,  
+Robert Brown  
+Telephone #: +91 6677889900
+
+--boundary123
+Content-Type: application/pdf; name="Payment_Receipt.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="Payment_Receipt.pdf"
+
+JVBERi0xLjQKJeLjz9MKMyAwIG9iago8PAovVGl0bGUgKFNhbXBsZSBSZWNlaXB0KQovQXV0aG9yIC
+hCYW5rIEV4YW1wbGUpCi9TdWJqZWN0IChQYXltZW50IFJlY2VpcHQpCj4+CmVuZG9iagoK
+--boundary123--

@@ -1,0 +1,34 @@
+From: ABC Limited LLC
+To: customer.care@kishkindabank.com
+Subject: ABC Limited LLC $10 16-4-2023 Loan
+Date: Fri, 21 Mar 2025 10:30:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Description: Facility lender share adjustment
+
+Borrower: ABC Limited LLC
+Deal Name: ABC Limited LLC $10 16-4-2023
+
+Effective 10-Feb-2025, the lender shares of facility Term Loan have been adjusted.
+Your share of the commitment was USD 100. It has increased to USD 110
+
+
+
+Regards,  
+Kane Santner
+Telephone #:
+  
+
+--boundary123
+Content-Type: application/pdf; name="Payment_Receipt.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="Payment_Receipt.pdf"
+
+JVBERi0xLjQKJeLjz9MKMyAwIG9iago8PAovVGl0bGUgKFNhbXBsZSBSZWNlaXB0KQovQXV0aG9yIC
+hCYW5rIEV4YW1wbGUpCi9TdWJqZWN0IChQYXltZW50IFJlY2VpcHQpCj4+CmVuZG9iagoK
+--boundary123--

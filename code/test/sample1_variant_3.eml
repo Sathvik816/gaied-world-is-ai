@@ -1,0 +1,35 @@
+From: Summit Financial
+To: customer.care@kishkindabank.com
+Subject: Sophia White LP USD 324 / KIB28532
+Date: Fri, 21 Mar 2025 10:30:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Deal CUSIP: 30303CCD2
+Deal ISIN: UK40404DDE38
+Facility CUSIP: 50505EEF4
+Lender MEI: EU8K907234
+
+Effective 15-Mar-2025, Sophia White LP has elected to repay a total of 8130
+
+Current Principal Balance: USD 47031
+New Principal Balance: USD 12270
+
+Loan was effective 15-Nov-2024, scheduled to repay on 15-Mar-2025
+
+Best regards,  
+Sophia White  
+Telephone #: +91 6677889900
+
+--boundary123
+Content-Type: application/pdf; name="Payment_Receipt.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="Payment_Receipt.pdf"
+
+JVBERi0xLjQKJeLjz9MKMyAwIG9iago8PAovVGl0bGUgKFNhbXBsZSBSZWNlaXB0KQovQXV0aG9yIC
+hCYW5rIEV4YW1wbGUpCi9TdWJqZWN0IChQYXltZW50IFJlY2VpcHQpCj4+CmVuZG9iagoK
+--boundary123--
