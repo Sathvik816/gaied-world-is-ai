@@ -1,0 +1,22 @@
+File,request_type,sub_request_type,reason,attachments
+“/content/synthetic_eml_files/sample1_variant_2.eml”,“Money Movement-inbound”,“Principal”,“Principal payment received on [date]”,“0”
+“/content/synthetic_eml_files/sample1_variant_3.eml”,“Money Movement-inbound”,“Principal”,“Funds credited to your principal account”,“0”
+“/content/synthetic_eml_files/sample1_variant_4.eml”,“Money Movement-inbound”,“Principal”,“Incoming wire transfer applied to principal”,“0”
+“/content/synthetic_eml_files/sample1_variant_5.eml”,“Money Movement-inbound”,“Principal”,“Deposit confirmation for principal balance”,“0”
+“/content/synthetic_eml_files/sample1_variant_6.eml”,“Money Movement-inbound”,“Principal”,“Acknowledgment of principal fund receipt”,“0”
+“/content/synthetic_eml_files/sample1_variant_7.eml”,“Money Movement-inbound”,“Principal”,“Credit memo issued for principal deposit”,“0”
+“/content/synthetic_eml_files/sample1_variant_8.eml”,“Money Movement-inbound”,“Principal”,“Payment applied towards principal loan balance”,“0”
+“/content/synthetic_eml_files/sample1_variant_9.eml”,“Money Movement-inbound”,“Principal”,“Inbound principal payment reference [transaction ID]”,“0”
+“/content/synthetic_eml_files/sample1_variant_10.eml”,“Money Movement-inbound”,“Principal”,“Principal investment received from external account”,“0”
+“/content/synthetic_eml_files/sample2_variant_2.eml”,“Money Movement-inbound”,“Principal”,“Transaction confirmation for principal credit”,“0”
+“/content/synthetic_eml_files/sample2_variant_3.eml”,“Money Movement-inbound”,“Principal”,“Wire transfer credited to principal account”,“0”
+“/content/synthetic_eml_files/sample2_variant_4.eml”,“Money Movement-inbound”,“Principal”,“Payment processed for principal balance adjustment”,“0”
+“/content/synthetic_eml_files/sample2_variant_5.eml”,“Money Movement-inbound”,“Principal”,“Notification of inbound principal funds”,“0”
+“/content/synthetic_eml_files/sample2_variant_6.eml”,“Money Movement-inbound”,“Principal”,“Principal amount applied to reduce outstanding loan”,“0”
+“/content/synthetic_eml_files/sample2_variant_7.eml”,“Money Movement-inbound”,“Principal”,Fund transfer confirmation to principal reserve”,“0”
+“/content/synthetic_eml_files/sample2_variant_8.eml”,“Money Movement-inbound”,“Principal”,“Account statement showing principal credit entry”,“0”
+“/content/synthetic_eml_files/sample2_variant_9.eml”,“Money Movement-inbound”,“Principal”,“Receipt of inbound payment towards principal investment”,“0”
+“/content/synthetic_eml_files/sample2_variant_10.eml”,“Money Movement-inbound”,“Principal”,“Principal deposit from external financial institution”,“0”
+“/content/synthetic_eml_files/AdjustmentRequestTypeSampleFile1.eml”,“Adjustment”,,,“0”
+“/content/synthetic_eml_files/AdjustmentRequestTypeSampleFile2.eml”,“Adjustment”,,,“0”
+“/content/synthetic_eml_files/AdjustmentRequestTypeSampleFile3.eml”,“Adjustment”,,,“0”
