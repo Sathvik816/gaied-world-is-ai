@@ -69,7 +69,7 @@ Ensure you have the following installed:
 - Improve accuracy with prompt engineering
 - Deploy as a REST API
 
-##Tech Stack
+## Tech Stack
 Python, Gemini-1.5-pro-latest LLM, FAISS vectordb, sentence-transformer embeddings
 
 ## 👥 WorldisAI
