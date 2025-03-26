@@ -32,6 +32,11 @@ EML File Processing Module → Extracts content from emails.
 GenAI Classification Module → Uses LLMs for email categorization.
 API Deployment Module → Serves the classification results via an API.
 
+## Challenges We Faced
+Identify the appropriate model for classification
+Training the model
+Utilize free tools and resources to implement the solution
+
 ## Prerequisites
 Ensure you have the following installed:
 - Python 3.8+
