@@ -27,7 +27,7 @@ Deployment as an API
 - Supports fine-tuning for loan-specific email classification
 - Deployable as an API
 
-##How we built it
+## How we built it
 EML File Processing Module → Extracts content from emails.
 GenAI Classification Module → Uses LLMs for email categorization.
 API Deployment Module → Serves the classification results via an API.
